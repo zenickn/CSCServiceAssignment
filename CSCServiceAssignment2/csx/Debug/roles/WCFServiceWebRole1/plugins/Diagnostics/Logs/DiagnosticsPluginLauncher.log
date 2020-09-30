@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Emulator config file set to D:\CSCServiceAssignment2\CSCServiceAssignment2\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] DiagnosticsStoreRootPath set to: C:\Users\U430p\AppData\Local\dftmp\Resources\8340a22c-67d3-400f-8677-425a0ccc6920
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Loading config file: D:\CSCServiceAssignment2\CSCServiceAssignment2\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Config file to read: D:\CSCServiceAssignment2\CSCServiceAssignment2\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Emulator config file set to D:\CSCServiceAssignment2\CSCServiceAssignment2\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:06 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:06 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:06 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:07 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:07 AM] Resetting DiagnosticPlugin

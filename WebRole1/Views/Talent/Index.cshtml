@@ -1,0 +1,36 @@
+﻿@section talentCSS {
+    <link href="@Url.Content("~/Content/mystyle.css")" rel="stylesheet" />
+}
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Live Search</h2>
+<div id="loginDiv">
+    <p>Login to retrieve talents</p>
+    <label name ="Username" for="username" >Username:</label>
+    
+    <input type="text" name="username" id="username" placeholder="Enter Username" value="Testing@gmail.com" />
+    <br/>
+    <label name="password" for="password">Password:</label>
+    
+    <input type="text" name="username" id="password" placeholder="Enter Password" value="Testing111_" />
+   @* <input type="password" name="username" id="password" placeholder="Enter Password" />*@
+    <br/>
+    <input type="button" name="login" id="login" value="Retrieve Talents"/>
+    <br />
+    <br/>
+    <div id="msgBox"></div>
+</div>
+
+<div id="searcharea">
+    <label for="search">live search</label>
+    <p>Enter the name or info about a speaker</p>
+    <input type="search" name="search" id="search" placeholder="name or info" />
+   
+</div>
+<div id="update">
+</div>
+<script src="~/Scripts/jquery.js"></script>
+<script src="~/Scripts/script.js"></script>
+

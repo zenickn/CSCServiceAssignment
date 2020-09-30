@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Emulator config file set to D:\CSCServiceAssignment2\CSCServiceAssignment2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] DiagnosticsStoreRootPath set to: C:\Users\U430p\AppData\Local\dftmp\Resources\ec8f81c9-6c88-44b3-8b0c-f1631be8645c
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Loading config file: D:\CSCServiceAssignment2\CSCServiceAssignment2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Config file to read: D:\CSCServiceAssignment2\CSCServiceAssignment2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Emulator config file set to D:\CSCServiceAssignment2\CSCServiceAssignment2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:05 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:06 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:06 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:06 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:06 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [16/2/2017 9:30:06 AM] Resetting DiagnosticPlugin
